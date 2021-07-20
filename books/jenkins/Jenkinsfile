@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "gwaoha-books-dev"
         STAGE_PROJECT = "gwaoha-books-stage"
         APP_GIT_URL = "https://github.com/marina-stoica/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.ocp-d01.dev.nextcle.com"
+        NEXUS_SERVER = "http://nexus-common.apps.ocp-d01.dev.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
